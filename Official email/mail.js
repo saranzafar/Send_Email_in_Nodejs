@@ -11,7 +11,7 @@ async function sendMail() {
         service: 'gmail',
         auth: {
             user: 'mrsaran786@gmail.com',
-            pass: 'Your_Pass'
+            pass: 'kbkb xcwm rglm gypi'
         }
     });
 
